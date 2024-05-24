@@ -4,12 +4,11 @@
     "description": "A simple static file server using Node.js and Express",
     "main": "server.js",
     "scripts": {
-      "start": "node server.js"
+        "start": "node server.js"
     },
     "dependencies": {
-      "express": "^4.17.1"
+        "express": "^4.19.2"
     },
     "author": "Your Name",
     "license": "ISC"
-  }
-  
+}
